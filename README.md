@@ -9,4 +9,4 @@
 
 • The system was capable of generating personalized music recommendations, enhancing user engagement and retention.
 
-## For implementation details, visualization and recommendation results, please see `Music_Recommendation_Engine.ipynb` .
+## For implementation details, visualization and recommendation results, please see [`Music_Recommendation_Engine.ipynb`](Music_Recommendation_Engine.ipynb) .
